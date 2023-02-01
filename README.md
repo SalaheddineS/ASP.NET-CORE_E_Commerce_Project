@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/89920306/216121875-927900d7-a5e5-4d87-813b-c872a4a3d216.mp4
+
+
 #*********Presentation:*********<br>_________________________<br>
 Ceci est Un projet Realisé en Binome par ***Morchid Salaheddine & Kenza Dahibi*** ,
 C'est Un site Web Ecommerce Avec Partie Admin et Partie Client , En utilisant les technologies : <br>___________________________________________________________________________________________________________________________________________________<br><br>
@@ -9,5 +14,5 @@ C'est Un site Web Ecommerce Avec Partie Admin et Partie Client , En utilisant le
 
 Et l'aide des devs Dans ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) et ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
-https://user-images.githubusercontent.com/89920306/216117356-dd5a5e4c-5a9e-44ea-a66a-47209ee76936.mp4
+
 
